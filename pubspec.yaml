@@ -60,6 +60,10 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - images/background_main.webp
+    - images/images_test/photo_paris_test1.avif
+    - images/images_test/photo_lyon_test2.jpg
+    - images/images_test/photo_marseille_test3.jpg
+    - images/images_test/photo_nice_test4.jpg
  
 
   # An image asset can refer to one or more resolution-specific "variants", see
